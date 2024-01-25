@@ -1,0 +1,54 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Arial"; /* this should be the rest of the output you got from Google Fonts */
+  background-color: #f5cfcf;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #ad7442;
+  text-shadow: 3px 3px 1px rgb(96, 69, 69);
+}
+
+h2 {
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Papyrus';
+  color:rgb(111, 76, 47);
+}
+
+img {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+img {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  font-size: 15px;
+  line-height: 2;
+  color:rgb(111, 76, 47);
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+button {
+  color:#dab2b2;
+  font-family: Arial;
+  font-size: 20px;
+  font-family: 'Papyrus';
+  border-style: double;
+  border-color: #cf8787;
+}
